@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Ananas1Anass
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently studying digital signal processing.
+- 🌱 I’m currently studying digital signal processing
