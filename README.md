@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Anass
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in machine learning & data science
 - 🌱 I’m currently studying digital signal processing
