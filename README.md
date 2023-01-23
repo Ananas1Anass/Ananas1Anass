@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Anass
-- 👀 I’m interested in machine learning & data science
-- 🌱 I’m currently studying digital signal processing
+- 👀 I’m interested in Machine Learning and industrial application of it.
+- 🌱 I’m currently a IA and DSP student at ENSEIRB-MATMECA. (M2)
