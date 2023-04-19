@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Anass
 - 👀 I’m interested in Machine Learning and industrial applications of it.
-- 🌱 I’m currently a IA and DSP student at ENSEIRB-MATMECA. (M2)
+- 🌱 I’m currently a DSP and IA student at ENSEIRB-MATMECA. (M2)
