@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Anass
-- 👀 I’m interested in Machine Learning applications, and also Data Engineering and Management.
-- 🌱 I’m currently a DSP and IA student at ENSEIRB-MATMECA. (M2)
+- 👋 Greetings! Allow me to introduce myself. I'm Anass, a passionate individual with a deep fascination for the world of Machine Learning applications.
+- 👀 Currently, I am pursuing my Master's degree in Digital Signal Processing and Artificial Intelligence at ENSEIRB-MATMECA.
+- 🌱 Eager to collaborate and engage in data-related projects.
