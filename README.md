@@ -1,4 +1,4 @@
-- 👋 Greetings! Allow me to introduce myself. I'm Anass, an electronics and computer engineering Engineer, specialised in Digital signal processing and Artificial Intelligence from ENSEIRB-MATMECA,  a grand ecole of engineering in France.
+- 👋 Greetings! Allow me to introduce myself. I'm Anass, an electronics and computer engineering Engineerfrom ENSEIRB-MATMECA.
 - I mainly develop and deploy DL,ML solutions as well as working on Mlops.
 - 🌱 Eager to collaborate and engage in data-related projects.
 <h3 align="left">Languages and Tools:</h3>
